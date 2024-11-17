@@ -2,6 +2,7 @@
 
 
 I graduated in Computer Engineering at Sapienza University of Rome. 🧠
+
 I'm currently studying for a master's degree in Computer Science, focusing on AI and data science. 🌱
 
 I can speak Italian and English fluently. 🇮🇹🇬🇧
