@@ -13,6 +13,12 @@ I am passionate about movies, music, books, sports, and technology. I love to co
 
 <br>
 
+<p align='center'>
+ <img src='assets/sapienza.jpg' width="100px" />
+</p>
+
+
+
 ---
 
 <p align='center'>
