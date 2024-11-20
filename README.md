@@ -1,18 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-
 ### Hi there 👋
 
-<div class="row">
-  <div class="col">
-    <img src="assets/sapienza.jpg" />
-  </div>
-  <div class="col">
-    I graduated in Computer Engineering at Sapienza University of Rome. 🧠
+I graduated in Computer Engineering at Sapienza University of Rome. 🧠
 
-    I'm currently studying for a master's degree in Computer Science, focusing on Data Science, Computer Systems and AI. 🌱
-  </div>
-</div>
+I'm currently studying for a master's degree in Computer Science, focusing on Data Science, Computer Systems and AI. 🌱
+
 
 
 I can speak Italian and English fluently. 🇮🇹🇬🇧
