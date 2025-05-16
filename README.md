@@ -13,16 +13,15 @@ I am passionate about movies, music, books, sports, and technology. I love to co
 
 <br>
 
-<p align='center'>
- <img src='assets/sapienza.jpg' width="100px" />
-</p>
-
-
-
 ---
 
 <p align='center'>
-  
+  <a href='https://x.com/f3gerar'>
+    <img src='https://img.shields.io/badge/@f3gerar-black.svg?logo=x&logoColor=white'/>
+  </a>
+ <a href='https://huggingface.co/fegerar'>
+    <img src='https://img.shields.io/badge/fegerar-gray.svg?logo=huggingface&logoColor=yellow'/>
+  </a>
   <a href='https://www.linkedin.com/in/federico-gerardi-81407a1a1/'>
     <img src='https://img.shields.io/badge/-Linkedin-0e76a8?logo=linkedin&logoColor=white'/>
   </a>
